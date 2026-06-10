@@ -29,6 +29,7 @@ visit crypto best list for more - <a href='https://cryptobestlist.com' >awesome 
 - [CoinMarketCap](https://coinmarketcap.com) - Cryptocurrency market cap rankings, charts, and more.
 - [CoinGecko](https://coingecko.com) - Cryptocurrency ranking and evaluation site.
 - [CryptoCompare](https://www.cryptocompare.com) - Cryptocurrency comparison and portfolio tracking.
+- [YieldScope](https://yieldscope.io) - Crypto yield aggregator comparing exchange Earn rates and DeFi pools with A-F risk grades.
 
 ## News and Information
 
